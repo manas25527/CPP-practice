@@ -1,0 +1,1 @@
+{"name":"Local: QUesC","url":"/home/manasagpop255/Desktop/Coding/C++ Files/QUesC.cpp","tests":[{"id":1790470982353,"input":"5 3\n1 2 3 2 1","output":"3 2 1"},{"id":1790471004142,"input":"4 2\n1 2 1 2","output":"-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/manasagpop255/Desktop/Coding/C++ Files/QUesC.cpp","group":"local","local":true}

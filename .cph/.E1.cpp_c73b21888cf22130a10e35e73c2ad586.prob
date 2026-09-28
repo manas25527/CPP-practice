@@ -1,0 +1,1 @@
+{"name":"Local: E1","url":"/home/manasagpop255/Desktop/Coding/C++ Files/E1.cpp","tests":[{"id":1790468447244,"input":"4\n9 1 3\n2 2 2\n0 2 5\n2 7 7","output":"5\n0\n-1\n5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/manasagpop255/Desktop/Coding/C++ Files/E1.cpp","group":"local","local":true}
