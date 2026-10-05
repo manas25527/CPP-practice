@@ -1,0 +1,1 @@
+{"name":"Local: prc_2d_array","url":"/home/manasagpop255/Desktop/Coding/C++ Files/prc_2d_array.cpp","tests":[{"id":1791193408796,"input":"3 4\n2 5 1 3 \n9 0 2 1\n4 4 4 0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/manasagpop255/Desktop/Coding/C++ Files/prc_2d_array.cpp","group":"local","local":true}
