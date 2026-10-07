@@ -7,9 +7,14 @@ int main()
     cin >> n;
     for(int i = 0; i < n; i++)
     {
-        int a;
+        long long int a;
         cin >> a;
-        
+        int ones = 0;
+        while(a!=0) {
+            if(a%2==1) ones++;
+            a /= 2;
+        }
+        cout << (2<<(ones-1)) - 1 << '\n';
     }
     return 0;
 }
