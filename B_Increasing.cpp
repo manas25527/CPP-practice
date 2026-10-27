@@ -13,16 +13,16 @@ int main()
         for (int j = 0; j < m; j++)
             cin >> arr[j];
         sort(arr, arr+m);
-        int x = 0;
+        bool x = false;
         for (int j = 0; j < m-1; j++)
         {
             if(arr[j] == arr[j+1])
             {
-                x = 1;
+                x = true;
                 break;
             }
             else
-                x = 0;
+                x = false;
         }
         
         if(x) cout << "NO\n";
